@@ -1,0 +1,8 @@
+nltk==3.8.1
+numpy==1.24.1
+tokenizers==0.19.1
+torch==2.2.2+cu118
+torchaudio==2.2.2+cu118
+torchvision==0.17.2+cu118
+tqdm==4.66.4
+transformers==4.42.3
